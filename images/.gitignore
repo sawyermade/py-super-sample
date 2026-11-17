@@ -1,0 +1,49 @@
+# Ignore all image files in this folder (any case, any depth).
+# Other files, like README.md, are still tracked.
+
+# Common
+*.[pP][nN][gG]
+*.[jJ][pP][gG]
+*.[jJ][pP][eE][gG]
+*.[jJ][pP][eE]
+*.[jJ][fF][iI][fF]
+*.[gG][iI][fF]
+*.[wW][eE][bB][pP]
+*.[bB][mM][pP]
+*.[dD][iI][bB]
+*.[sS][vV][gG]
+*.[iI][cC][oO]
+
+# Modern / high-efficiency
+*.[hH][eE][iI][cC]
+*.[hH][eE][iI][fF]
+*.[aA][vV][iI][fF]
+*.[jJ][xX][lL]
+*.[jJ][pP][22]
+*.[jJ][22][kK]
+
+# TIFF / editing formats
+*.[tT][iI][fF]
+*.[tT][iI][fF][fF]
+*.[pP][sS][dD]
+*.[xX][cC][fF]
+*.[tT][gG][aA]
+*.[eE][xX][rR]
+*.[hH][dD][rR]
+
+# Camera RAW
+*.[dD][nN][gG]
+*.[rR][aA][wW]
+*.[cC][rR][22]
+*.[cC][rR][33]
+*.[nN][eE][fF]
+*.[aA][rR][wW]
+*.[oO][rR][fF]
+*.[rR][wW][22]
+*.[rR][aA][fF]
+
+# Netpbm
+*.[pP][bB][mM]
+*.[pP][gG][mM]
+*.[pP][pP][mM]
+*.[pP][nN][mM]
